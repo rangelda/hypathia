@@ -7,8 +7,8 @@
 **High Concept**
 #### Hypatia é uma jovem filósofa pitagórica que deve escapar do mundo das formas usando as habilidades do tetractys. Coletando os powers ups representados pelas letras gregas, poderá construir pontes, laços e blocos que permitem a ela escapar dos inimigos e encontrar seu caminho.
 
-** Título**
-#### Hypathia e o Tetractys
+**Título**
+Hypathia e o Tetractys
 
 **Main features**
 #### Essenciais: criar formas
@@ -46,7 +46,7 @@
 #### Olhos: os chefes vão abrir todos os olhos antes de usar os projéteis ou dilatar a pupila do olho central antes de usar um atropelamento. 
 
 **UX/UI**
-#### Health: uma barra de energia mostrando quantos golpes Hypathia ainda pode receber
+Health: uma barra de energia mostrando quantos golpes Hypathia ainda pode receber
 Vidas: representados por pequenas faces de Hypathia, mostra quantas vezes o jogador pode morrer
 Tetractys: um triângulo formado por 10 esferas, mostra quantas vezes HYpathia pode usar o poder de criar formas.
 Level: mostra em que fase Hypathia está.
